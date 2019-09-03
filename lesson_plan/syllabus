@@ -1,0 +1,94 @@
+lesson 1:
+==========
+what is programming.
+what is a computer
+    hardware
+        cpu 
+        memory
+            long term
+            short term 
+        screen/printer
+        input
+        neteork
+    software
+        programs
+        data files
+        operating systems
+the internet
+    browser
+    HTML
+    javascript
+    css
+    uri/url
+        http/https
+        port
+        host
+        reasource
+        query
+        GET/POST/PUT/DELETE
+    client 
+    server
+    security - black hole not for now
+layer diagram
+
+
+lesson 2: 
+==========
+what we are going to learn - internet programming
+    files
+        mime types
+    browser
+        HTML
+        css
+        js 
+        url
+    database - not for now
+the tools we will be using
+    githib
+    vs code
+    node - simple html server
+    browser
+    terminal
+node/browser
+HTML -tags
+CSS - 
+script
+block diagram
+
+
+lesson 3: - hands on lessons
+===========
+     index.html hello world 
+     css formatting
+     serving
+     onclick event
+     push to git.
+
+
+lesson 4: - javascript
+===========
+     structure of a programe 
+     scope
+     variables 
+     functions
+     node / browser
+
+
+lesson 5
+==========
+    design 
+        uml class doagram
+        sequence diagram
+        flow diagram
+
+
+
+
+
+
+    
+
+
+
+
+
