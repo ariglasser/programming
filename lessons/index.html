@@ -6,12 +6,12 @@
 
 		<title>reveal.js</title>
 
-		<link rel="stylesheet" href="../reveal.js-master/css/reset.css">
-		<link rel="stylesheet" href="../reveal.js-master/css/reveal.css">
-		<link rel="stylesheet" href="../reveal.js-master/css/theme/black.css">
+		<link rel="stylesheet" href="/reveal.js-master/css/reset.css">
+		<link rel="stylesheet" href="/reveal.js-master/css/reveal.css">
+		<link rel="stylesheet" href="/reveal.js-master/css/theme/black.css">
 
 		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="../reveal.js-master/lib/css/monokai.css">
+		<link rel="stylesheet" href="/reveal.js-master/lib/css/monokai.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -26,11 +26,17 @@
 		<div class="reveal">
 			<div class="slides">
 				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section>
+					ari said Slide 2
+					<section>Slide 2.1</section>
+					<section>Slide 2.2</section>
+				</section>
+				<section>Slide 3</section>
+
 			</div>
 		</div>
 
-		<script src="../reveal.js-master/js/reveal.js"></script>
+		<script src="/reveal.js-master/js/reveal.js"></script>
 
 		<script>
 			// More info about config & dependencies:
@@ -38,10 +44,10 @@
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
 				dependencies: [
-					{ src: '../reveal.js-master/plugin/markdown/marked.js' },
-					{ src: '../reveal.js-master/plugin/markdown/markdown.js' },
-					{ src: '../reveal.js-master/plugin/notes/notes.js', async: true },
-					{ src: '../reveal.js-master/plugin/highlight/highlight.js', async: true }
+					{ src: '/reveal.js-master/plugin/markdown/marked.js' },
+					{ src: '/reveal.js-master/plugin/markdown/markdown.js' },
+					{ src: '/reveal.js-master/plugin/notes/notes.js', async: true },
+					{ src: '/reveal.js-master/plugin/highlight/highlight.js', async: true }
 				]
 			});
 		</script>
