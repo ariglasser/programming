@@ -7,34 +7,46 @@ what is a computer
         memory
             long term
             short term 
-        screen/printer
-        input
-        neteork
+        peripheral devices 
+            screen/printer
+            keyboard/mouse/touch
+            neteork
+            sound
+            ...
     software
+        drivers
         programs
         data files
         operating systems
 the internet
+    client 
+    server
     browser
-    HTML
-    javascript
-    css
+        HTML
+        javascript
+        css
     uri/url
-        http/https
+    http/https
         port
         host
         reasource
         query
         GET/POST/PUT/DELETE
-    client 
-    server
+    
     security - black hole not for now
 layer diagram
+
+    html/css/javascript   
+    browser
+    -----------
+    operating system
+    drivers
+    hardware
 
 
 lesson 2: 
 ==========
-what we are going to learn - internet programming
+internet programming
     files
         mime types
     browser
@@ -62,16 +74,19 @@ lesson 3: - hands on lessons
      css formatting
      serving
      onclick event
+     TESTING
      push to git.
 
 
 lesson 4: - javascript
 ===========
-     structure of a programe 
+     structure of a programe
      scope
      variables 
      functions
      node / browser
+     classes & objects
+     npm
 
 
 lesson 5
@@ -80,7 +95,8 @@ lesson 5
         uml class doagram
         sequence diagram
         flow diagram
-
+    object oriented
+    
 
 
 
